@@ -5,7 +5,7 @@ Passionate Frontend and Backend Developer from Pakistan | Crafting Seamless Digi
 - 🔭 Crafting the future with the Buildware App, where innovation meets functionality.
 - 🌱 Currently immersed in the worlds of Next.js and React Native, adding versatile tools to my developer arsenal.
 - 👯 Open to collaboration on exciting projects involving React and Node.js – let's build something remarkable together!
-- 🤔 Seeking assistance or keen to connect? Reach out at atta.randhawa86@gmail.com – always open to valuable insights and collaborations.
+- 🤔 Seeking assistance or keen to connect? Reach out at **atta.randhawa86@gmail.com** – always open to valuable insights and collaborations.
 - 💬 Have questions about code, tech, or anything in between? Feel free to ask!
 - ⚡ Fun fact **I am quick learner**
   <br/><br/>
@@ -13,6 +13,7 @@ Passionate Frontend and Backend Developer from Pakistan | Crafting Seamless Digi
 <p align="left">
 <a href="https://codepen.io/codewithumarrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codewithumarrr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umar95global" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umar95global" height="30" width="40" /></a>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <a href="https://stackoverflow.com/users/codewithumarrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codewithumarrr" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codewithumarrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codewithumarrr" height="30" width="40" /></a>
 </p>
