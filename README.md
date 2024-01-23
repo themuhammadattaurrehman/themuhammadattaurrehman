@@ -7,7 +7,7 @@ Passionate Frontend and Backend Developer from Pakistan | Crafting Seamless Digi
 - 👯 Open to collaboration on exciting projects involving React and Node.js – let's build something remarkable together!
 - 🤔 Seeking assistance or keen to connect? Reach out at atta.randhawa86@gmail.com – always open to valuable insights and collaborations.
 - 💬 Have questions about code, tech, or anything in between? Feel free to ask!
-⚡ Fun fact **I am quick learner**
+- ⚡ Fun fact **I am quick learner**
   <br/><br/>
 <h3 align="left" style="margin-top: '35px';">Connect with me:</h3>
 <p align="left">
